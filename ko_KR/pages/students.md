@@ -17,7 +17,7 @@
 
 ---
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/정우.jpg" alt="Drawing" style="width: 100px;"/>
-## 이정우 (Lee, Jung Woo)
+## 이정우
 #### 경력
  * __2013.03 - 현재__ &nbsp;&nbsp; 고려대학교 핵물리 연구실 석,박사 통합과정.
 
