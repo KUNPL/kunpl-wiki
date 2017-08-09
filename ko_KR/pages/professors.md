@@ -1,29 +1,7 @@
-# 교수진
+# 교수
 
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Professor/kssim.jpg" alt="Drawing" style="width: 150px;"/>
-## 심광숙 (Kwang-Souk Sim)
-    
-#### 학력
-  * __1965 - 1969__ &nbsp; 고려대학교 물리학 이학사
-  * __1969 - 1971__ &nbsp; 고려대학교 물리학 이학석사
-  * __1974 - 1978__ &nbsp; Universite de Strasbourg(France) 핵물리학 Ph. D.
-
-#### 경력
-  * __1979.03 - 1982.09__ &nbsp; 중앙대학교 물리학과 조교수
-  * __1982.09 - 2011.09__ &nbsp; 고려대학교 이과대학 물리학과 교수
-  * __1989.05 - 1991.04__ &nbsp; 한국물리학회 사업 간사
-  * __1989.10 - 1991.10__ &nbsp; 한국물리학회 원자핵 분과 위원장
-  * __1993.02 - 1994.02__ &nbsp; University of British Columbia 방문교수
-  * __1995.05 - 1997.04__ &nbsp; 한국물리학회 편집 간사
-  * __1997.03 - 1999.02__ &nbsp; 고려대학교 과학도서관장
-  * __2000.07 - 2002.08__ &nbsp; 한국기초과학지원연구원 서울분소장
-  * __2002.09 - 2004.08__ &nbsp; 고려대학교 이과대학장
-  * __2005.01 - 2006.12__ &nbsp; 한국물리학회 부회장
-  * __2007.03 - 2008.02__ &nbsp; 고려대학교 부총장
-
----
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Professor/bshong.gif" alt="Drawing" style="width: 150px;"/>
-## 홍병식 (Byungsik Hong)
+## 홍병식 (Hong, Byungsik)
 #### 학력
   * __1982 - 1987__ &nbsp; 고려대학교 물리학 이학사
   * __1987 - 1989__ &nbsp; Hampton University 물리학 M. Sc.
@@ -49,3 +27,7 @@
   * __2001.03 - 2006.02__ &nbsp; 고려대학교 물리학과 부교수
   * __2010.03 - 2011.02__ &nbsp; 미국 브룩해븐국립연구소(BNL) Visiting Scientist
   * __2006.03 - 현 재__ &nbsp; 고려대학교 물리학과 교수
+
+---
+<img src="http://physics.korea.ac.kr/_attach/image/2017/02/thumb_jPDJXFFzKuPEBNIFUIei.jpg" alt="Drawing" style="width: 150px;"/>
+## 안정근 (Ahn, Jung Keun)

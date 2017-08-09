@@ -24,8 +24,11 @@
 
 [사람들]()
 
-  * [교수진](pages/professors.md)
-  * [대학원생](pages/students.md)
+  * [교수](pages/professors.md)
+  * [박사 후 연구원](pages/postdocs.md)
+  * [대학원생(KUNPL)](pages/students.md)
+  * [대학원생(HANUL)](pages/students2.md)
+  * [졸업생](pages/graduates.md)
 
 [연구]()
 
