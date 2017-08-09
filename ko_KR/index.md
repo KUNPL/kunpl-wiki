@@ -9,7 +9,9 @@
 ---
 ## 참여 실험
 
-* [CMS]() @ CERN
-* [LAMPS]() @ RAON
-* [PHENIX]() @ RHIC, BNL
-* [SpiRIT]() @ RIBF, RIKEN
+* [CMS](pages/cms.md) @ CERN, LHC
+* [LAMPS](pages/lamps.md) @ RAON
+* [PHENIX](pages/phenix.md) @ RHIC, BNL
+* [SpiRIT](pages/spirit.md) @ RIBF, RIKEN
+* [E42](pages/e42.md) @ J-PARC
+* [LEPS](pages/leps.md) @ SPring-8

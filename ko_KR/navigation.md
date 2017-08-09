@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# KUNPL
+# KUNPL & HANUL
 
 
 <!--
@@ -32,13 +32,17 @@
 
 [연구]()
 
-  * # 희귀 동위 원소 물리
+  * # 희귀 동위원소 물리
   * [LAMPS](pages/lamps.md)
   * [SpiRIT](pages/spirit.md)
   - - - -
   * # 높은 에너지
   * [CMS](pages/cms.md)
   * [PHENIX](pages/phenix.md)
+  - - - -
+  * # 기타
+  * [E42](pages/e42.md)
+  * [LEPS](pages/leps.md)
 
 [출판물](pages/publications.md)
 [사진](pages/photos.md)
