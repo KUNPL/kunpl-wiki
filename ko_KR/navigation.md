@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# 핵물리 연구실
+# KUNPL
 
 
 <!--
@@ -11,15 +11,36 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+<!--[gimmick:theme](simplex)-->
+<!--[gimmick:theme](united)-->
+<!--[gimmick:theme](yeti)-->
 
+[gimmick:theme](united)
 
 <!--
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[사람들](pages/people.md)
+[사람들]()
+
+  * [교수진](pages/professors.md)
+  * [대학원생](pages/students.md)
+
+[연구]()
+
+  * # 희귀 동위 원소 물리
+  * [LAMPS](pages/lamps.md)
+  * [SpiRIT](pages/spirit.md)
+  - - - -
+  * # 높은 에너지
+  * [CMS](pages/cms.md)
+  * [PHENIX](pages/phenix.md)
+
+[출판물](pages/publications.md)
+[사진](pages/photos.md)
+[바깥 고리](pages/links.md)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
