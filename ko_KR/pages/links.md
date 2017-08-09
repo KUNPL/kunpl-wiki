@@ -6,14 +6,16 @@
 
 #### 컨퍼런스 & 미팅
 * [Indico](http://nuclear.korea.ac.kr/indico/index.py)
+* [ISMD2016](http://nuclear.korea.ac.kr/indico/conferenceDisplay.py?confId=166)
 
 #### 프로그래밍 가이드
 * [ROOT 가이드](https://opentutorials.org/module/2860)
 * [Geant4 가이드](https://opentutorials.org/module/2275)
 
 #### Github
-* [Github/KUNPL](https://github.com/KUNPL)
-* [Github/SpiRIT-Collaboration](https://github.com/SpiRIT-Collaboration)
+* [KUNPL](https://github.com/KUNPL)
+* [kunpl-wiki](https://github.com/KUNPL/kunpl-wiki)
+* [SpiRIT-Collaboration](https://github.com/SpiRIT-Collaboration)
 
 #### 소프트웨어
 * [GETDecoder](https://github.com/geniejhang/GETDecoder)
