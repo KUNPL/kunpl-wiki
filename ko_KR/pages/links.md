@@ -3,6 +3,8 @@
 #### 홈
 * [KUNPL TWiki](https://nuclear.korea.ac.kr)
 * [HANUL](https://hanul.korea.ac.kr)
+* [고려대학교 이과대학](https://science.korea.ac.kr)
+* [고려대학교 물리학과](https://physics.korea.ac.kr)
 
 #### 컨퍼런스 & 미팅
 * [Indico](http://nuclear.korea.ac.kr/indico/index.py)
