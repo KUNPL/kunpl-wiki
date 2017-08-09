@@ -53,6 +53,7 @@
 [출판물](pages/publications.md)
 [사진](pages/photos.md)
 [바깥 고리](pages/links.md)
+[글 남기기](pages/disqus.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------

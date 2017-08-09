@@ -19,6 +19,3 @@
 * [EURICA](pages/eurica.md)
 * [E42](pages/e42.md) @ J-PARC
 * [LEPS](pages/leps.md) @ SPring-8
-
----
-[gimmick:GoogleMaps (zoom: 13)](Hirschstr. 2a, 76133 Karlsruhe)
