@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# 핵물리 연구실
 
 
 <!--
@@ -19,8 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[사람들](pages/people.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
