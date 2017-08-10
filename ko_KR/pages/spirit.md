@@ -18,7 +18,7 @@ SpiRIT Collaboration 은 핵 대칭에너지와 상태방정식에 대한 연구
 * [SpiRIT Cosmics](https://groups.nscl.msu.edu/hira/cosmic/index.html)
 * [RIBF @ RIKEN](http://www.nishina.riken.jp/RIBF/)
 * [SAMURAI 자석](http://www.nishina.riken.jp/RIBF/SAMURAI/overview.html)
-* [오픈랩2013 포스터](slidesandposters.md#오픈랩2013_SpiRIT)
+* [오픈랩2013 포스터](materials.md#오픈랩2013_SpiRIT)
 
 ---
 
