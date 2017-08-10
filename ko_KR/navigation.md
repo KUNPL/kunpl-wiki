@@ -37,15 +37,13 @@
   * # 희귀 동위원소 물리
   * [LAMPS](pages/lamps.md)
   * [SpiRIT](pages/spirit.md)
+  * [EURICA](pages/eurica.md)
   - - - -
   * # 높은 에너지 물리
   * [CMS](pages/cms.md)
   * [PHENIX](pages/phenix.md)
   - - - -
-  * # 핵 구조
-  * [EURICA](pages/eurica.md)
-  - - - -
-  * # 기타
+  * # 하드론 물리 
   * [E42](pages/e42.md)
   * [BELLE II](pages/belleii.md)
   * [LEPS](pages/leps.md)
