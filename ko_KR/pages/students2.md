@@ -1,9 +1,5 @@
 # 대학원생
 
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/MinhoKim.jpg" alt="Drawing" style="width: 100px;"/>
-## 김민호
-
----
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/shinhyungkim.jpg" alt="Drawing" style="width: 100px;"/>
 ## 김신형
 
