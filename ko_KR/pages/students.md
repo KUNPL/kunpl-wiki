@@ -48,6 +48,9 @@
 ---
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/정우.jpg" alt="Drawing" style="width: 100px;"/>
 ## 이정우
+#### 학력
+ * __2007.03 - 2011.02__ &nbsp;&nbsp; 고려대학교 물리학과 재학
+
 #### 경력
  * __2013.03 - 현재__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석·박사 통합과정
 
@@ -58,20 +61,26 @@
 ---
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/유재희.jpg" alt="Drawing" style="width: 100px;"/>
 ## 유재희
+#### 학력
+ * __2006.03 - 2013.02__ &nbsp;&nbsp; 고려대학교 물리학과 재학
+
 #### 경력
  * __2013.03 - 현재__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석·박사 통합과정
 
 #### 연구 분야
-  * [PHENIX](phenix.md)
+  * [PHENIX](phenix.md), Proton Spin
 
 ---
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/BumgonKim.jpg" alt="Drawing" style="width: 100px;"/>
 ## 김범곤
+#### 학력
+ * __2008.03 - 2012.02__ &nbsp;&nbsp; 고려대학교 물리학과 재학
+
 #### 경력
  * __2013.03 - 현재__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석·박사 통합과정
 
 #### 연구 분야
-  * [CMS](cms.md)
+  * [CMS](cms.md), Ultra Peripheral Collision(UPC)
 
 ---
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/박재범_.jpg" alt="Drawing" style="width: 100px;"/>
@@ -83,7 +92,7 @@
  * __2013.03 - 현재__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석·박사 통합과정
 
 #### 연구 분야
-  * [CMS](cms.md), Y Meson
+  * [CMS](cms.md), Y(Upsilon) Meson
 
 ---
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/MinhoKim.jpg" alt="Drawing" style="width: 100px;"/>
@@ -95,7 +104,7 @@
  * __2014.03 - 현재__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석·박사 통합과정
  
 #### 연구 분야
-  * [PHENIX](phenix.md)
+  * [PHENIX](phenix.md), Proton Spin
 
 ---
 
@@ -108,17 +117,23 @@
  * __2014.09 - 현재__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석·박사 통합과정
 
 #### 연구 분야
-  * [EURICA](eurica.md), 핵 구조
+  * [EURICA](eurica.md), Nuclear Structure(Gamma-ray Spectroscopy)
 
 ---
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/Nam.jpg" alt="Drawing" style="width: 100px;"/>
 ## 남선호
+#### 학력
+ * __2011.03 - 2017.02__ &nbsp;&nbsp; 울산대학교 전기공학부 재학
+
 #### 경력
  * __2017.03 - 현재__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석·박사 통합과정
 
 ---
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/JHPark.jpg" alt="Drawing" style="width: 100px;"/>
 ## 박정혁
+#### 학력
+ * __2013.03 - 2017.02__ &nbsp;&nbsp; 전남대학교 전자전기공학부 재학
+
 #### 경력
  * __2017.03 - 현재__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석·박사 통합과정
 
