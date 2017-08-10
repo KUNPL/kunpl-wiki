@@ -13,9 +13,8 @@
 
 <!--[gimmick:theme](simplex)-->
 <!--[gimmick:theme](united)-->
-<!--[gimmick:theme](yeti)-->
 
-[gimmick:theme](united)
+[gimmick:theme](simplex)
 
 <!--
   -- Navigation
@@ -48,9 +47,14 @@
   - - - -
   * # 기타
   * [E42](pages/e42.md)
+  * [BELLE II](pages/belleii.md)
   * [LEPS](pages/leps.md)
 
-[출판물](pages/publications.md)
+[자료]()
+
+  * [출판물](pages/publications.md)
+  * [포스터](pages/materials.md)
+
 [사진](pages/photos.md)
 [바깥 고리](pages/links.md)
 [글 남기기](pages/disqus.md)
