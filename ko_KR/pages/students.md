@@ -85,8 +85,20 @@
 #### 연구 분야
   * [CMS](cms.md), Y Meson
 
+---
+<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/MinhoKim.jpg" alt="Drawing" style="width: 100px;"/>
+## 김민호
+#### 학력
+ * __2008.03 - 2014.02__ &nbsp;&nbsp; 고려대학교 물리학과 재학
+
+#### 경력
+ * __2014.03 - __ &nbsp;&nbsp; 고려대학교 핵물리연구실 석·박사 통합과정
+ 
+#### 연구 분야
+ * [PHENIX] (phenix.md)
 
 ---
+
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/ByulMoon.jpg" alt="Drawing" style="width: 100px;"/>
 ## 문별
 #### 학력
