@@ -17,5 +17,6 @@ EURICA Campaign은 2011년부터 2016년까지 진행된 유럽연합과 일본 
 * [RIBF @ RIKEN](http://www.nishina.riken.jp/RIBF/)
 
 ---
-<img src="https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2013/experimentso.jpg" alt="Drawing" style="width: 200px;"/>
-<img src="http://ribf.riken.jp/~nishimu/images/EURICA-WS2016.png" alt="Drawing" style="width: 200px;"/>
+<img src="https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2013/experimentso.jpg" alt="Drawing" style="width: 1000px;"/>
+
+<img src="http://ribf.riken.jp/~nishimu/images/EURICA-WS2016.png" alt="Drawing" style="width: 1000px;"/>
