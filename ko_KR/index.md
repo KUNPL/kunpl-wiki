@@ -16,6 +16,6 @@
 * [LAMPS](pages/lamps.md) @ RAON
 * [PHENIX](pages/phenix.md) @ RHIC, BNL
 * [SpiRIT](pages/spirit.md) @ RIBF, RIKEN
-* [EURICA](pages/eurica.md)
+* [EURICA](pages/eurica.md) @ RIBF, RIKEN
 * [E42](pages/e42.md) @ J-PARC
 * [LEPS](pages/leps.md) @ SPring-8
