@@ -53,11 +53,10 @@
 [자료]()
 
   * [출판물](pages/publications.md)
-  * [포스터](pages/materials.md)
+  * [발표 자료 및 포스터](pages/materials.md)
+  * [사진](pages/photos.md)
 
-[사진](pages/photos.md)
 [바깥 고리](pages/links.md)
-[글 남기기](pages/disqus.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
