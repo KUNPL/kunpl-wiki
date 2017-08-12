@@ -16,13 +16,13 @@
 ## 김준이
 
 ---
-<img src="./uploads/images/ygkim.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/yjkim.jpg" alt="Drawing" style="width: 100px;"/>
 ## 김영준
 
 ---
-<img src="./uploads/images/wjchoi.jpeg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/wjchoi.jpg" alt="Drawing" style="width: 100px;"/>
 ## 최원지
 
 ---
-<img src="./uploads/images/jmjoh.jpeg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/jmjoh.jpg" alt="Drawing" style="width: 100px;"/>
 ## 조자민
