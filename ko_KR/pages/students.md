@@ -12,7 +12,7 @@
   * [LAMPS](lamps.md), Neutron Dector
 
 ---
-<img src="./uploads/images/kisoolee.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/kslee.jpg" alt="Drawing" style="width: 100px;"/>
 ## 이기수
 #### 학력
  * __2004.03 - 2011.02__ &nbsp;&nbsp; 고려대학교 물리학과 재학
