@@ -119,7 +119,7 @@
   * __2006.03 - 2010.02__ &nbsp;&nbsp; 고려대학교 물리학과 재학
   * __2010.03 - 2016.08__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석·박사 통합과정
   * __2016.09 - 2016.12__ &nbsp;&nbsp; 고려대학교 핵물리연구실 박사후연구원 
-  * __2017/01 - 현재__ &nbsp;&nbsp; 미국 MSU NSCL 박사후연구원
+  * __2017.01 - 현재__ &nbsp;&nbsp; 미국 MSU NSCL 박사후연구원
 
 ---
 <img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Alumnus/kyokyo.jpg" alt="Drawing" style="width: 100px;"/>
