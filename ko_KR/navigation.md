@@ -30,7 +30,9 @@
   * [KUNPL](pages/students.md)
   * [HANUL](pages/students2.md)
   - - - -
-  * [졸업생](pages/graduates.md)
+  * # 졸업생
+  * [박사과정 졸업생](pages/graduates.md)
+  * [석사과정 졸업생](pages/graduates2.md)
 
 [연구]()
 
