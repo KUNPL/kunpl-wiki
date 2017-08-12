@@ -37,7 +37,7 @@
   * __1998 - 2000__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석사과정
 
 ---
-<img src="./uploads/images/Baik_KM.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/Baik_KM.png" alt="Drawing" style="width: 100px;"/>
 ## 백경민
 #### 학력 및 경력
   * __1992 - 1996__ &nbsp;&nbsp; 고려대학교 물리학과 학사
