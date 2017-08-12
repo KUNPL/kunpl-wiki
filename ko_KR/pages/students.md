@@ -36,7 +36,7 @@
   * [CMS](cms.md), Gamma Jet
 
 ---
-<img src="./uploads/images/bmulilo.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/bmullilo.jpg" alt="Drawing" style="width: 100px;"/>
 ## Benard Mulilo
 #### 경력
  * __2012.03 - 2014.02__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석사과정
