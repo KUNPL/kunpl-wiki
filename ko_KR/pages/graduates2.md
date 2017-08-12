@@ -37,7 +37,7 @@
   * __1998 - 2000__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석사과정
 
 ---
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Alumnus/Baik_KM.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/Baik_KM.jpg" alt="Drawing" style="width: 100px;"/>
 ## 백경민
 #### 학력 및 경력
   * __1992 - 1996__ &nbsp;&nbsp; 고려대학교 물리학과 학사
@@ -67,19 +67,19 @@
   * __2002 - 2004__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석사과정
 
 ---
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Alumnus/hboom.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/hboom.jpg" alt="Drawing" style="width: 100px;"/>
 ## 이한범
 #### 학력 및 경력
   * __2007.08 - 2010.02__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석사과정
 
 ---
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Alumnus/Suhyun.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/Suhyun.jpg" alt="Drawing" style="width: 100px;"/>
 ## 이수현
 #### 학력 및 경력
   * __2011.03 - 2013.02__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석사과정
 
 ---
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Alumnus/070726-0000(1597).jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/070726-0000(1597).jpg" alt="Drawing" style="width: 100px;"/>
 ## 주은아
 #### 학력 및 경력
   * __2006.03 - 2010.02__ &nbsp;&nbsp; 고려대학교 물리학과 재학
