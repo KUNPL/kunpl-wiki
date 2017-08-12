@@ -71,7 +71,7 @@
   * [PHENIX](phenix.md), Proton Spin
 
 ---
-<img src="https://drive.google.com/open?id=0B7gZCIaBpN2LRjF5Q1NZSjBQTFE" alt="Drawing" style="width: 100px;"/>
+<img src="./upload/pictures/bgki,/jpg" alt="Drawing" style="width: 100px;"/>
 ## 김범곤
 #### 학력
  * __2008.03 - 2012.02__ &nbsp;&nbsp; 고려대학교 물리학과 재학
