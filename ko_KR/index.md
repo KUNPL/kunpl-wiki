@@ -18,8 +18,8 @@
 ---
 ## 참여 실험
 
-* [CMS](pages/cms.md) @ CERN, LHC
-* [LAMPS](pages/lamps.md) @ RAON
+* [CMS](pages/cms.md) @ LHC, CERN
+* [LAMPS](pages/lamps.md) @ RAON, RISP
 * [PHENIX](pages/phenix.md) @ RHIC, BNL
 * [SpiRIT](pages/spirit.md) @ RIBF, RIKEN
 * [EURICA](pages/eurica.md) @ RIBF, RIKEN
