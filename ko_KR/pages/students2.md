@@ -1,10 +1,10 @@
 # 대학원생
 
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/shinhyungkim.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/shkim.jpg" alt="Drawing" style="width: 100px;"/>
 ## 김신형
 
 ---
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/정우승_.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/wsjung.jpg" alt="Drawing" style="width: 100px;"/>
 ## 정우승
 
 ---
@@ -12,17 +12,17 @@
 ## 존
 
 ---
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/Kim_Jun-Lee.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/jlkim.jpg" alt="Drawing" style="width: 100px;"/>
 ## 김준이
 
 ---
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/ygkim.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/ygkim.jpg" alt="Drawing" style="width: 100px;"/>
 ## 김영준
 
 ---
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/image.jpeg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/wjchoi.jpeg" alt="Drawing" style="width: 100px;"/>
 ## 최원지
 
 ---
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/KakaoTalk_Photo_2016-02-25-14-02-21_3.jpeg" alt="Drawing" style="width: 100px;"/>
+<img src="./uploads/images/jmjoh.jpeg" alt="Drawing" style="width: 100px;"/>
 ## 조자민
