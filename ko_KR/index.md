@@ -24,4 +24,5 @@
 * [SpiRIT](pages/spirit.md) @ RIBF, RIKEN
 * [EURICA](pages/eurica.md) @ RIBF, RIKEN
 * [E42](pages/e42.md) @ J-PARC
+* [BELLE2](pages/belleii.md) @ KEK
 * [LEPS](pages/leps.md) @ SPring-8
