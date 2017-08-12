@@ -8,4 +8,4 @@
 * [오픈랩2013 포스터](materials.md#오픈랩2013_PHENIX)
 
 ---
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/PHENIX/phenix_det_large.jpg" alt="Drawing" style="width: 500px;"/>
+<img src="./uploads/images/phenix_det_large.jpg" alt="Drawing" style="width: 500px;"/>
