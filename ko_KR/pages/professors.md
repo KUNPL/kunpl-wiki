@@ -1,6 +1,6 @@
 # 교수
 
-<img src="https://nuclear.korea.ac.kr/twiki/pub/Main/Professor/bshong.gif" alt="Drawing" style="width: 150px;"/>
+<img src="./uploads/images/bshong.gif" alt="Drawing" style="width: 150px;"/>
 ## 홍병식 (Hong, Byungsik)
 #### 학력
   * __1982 - 1987__ &nbsp; 고려대학교 물리학 이학사
