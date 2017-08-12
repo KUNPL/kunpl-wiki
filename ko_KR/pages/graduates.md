@@ -87,6 +87,8 @@
   * __2011.09 - 2012.10__ &nbsp;&nbsp; 고려대학교 연구교수 및 CMS 연구원
 
 ---
+<img src="http://nuclear.korea.ac.kr/twiki/pub/Main/Graduate/mihee.png" alt="Drawing" style="width: 100px;"/>
+## 조미희
 #### 학력 및 경력
   * __2004.03 - 2008.02__ &nbsp;&nbsp; 고려대학교 물리학과 재학
   * __2008.03 - 2014.08__ &nbsp;&nbsp; 고려대학교 핵물리연구실 석박사 통합과정
